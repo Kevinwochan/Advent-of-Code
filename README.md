@@ -8,6 +8,7 @@ long inputs are usually expected to be read in from input.txt
 | ------------- | ----------------- |
 | Day 1         | NodeJS/Javascript |
 | Day 2         | Go + Regex        |
+| Day 3         | Python 3.8        |
 
 ## 2018
 | Challenge No. | Language used |
