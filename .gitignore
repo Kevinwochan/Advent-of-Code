@@ -1,3 +1,4 @@
 # exclude workspace settings
 .*
+**/a.out
 !/.gitignore
