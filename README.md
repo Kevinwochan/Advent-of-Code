@@ -10,6 +10,7 @@ long inputs are usually expected to be read in from input.txt
 | Day 2         | Go + Regex        |
 | Day 3         | Python 3.8        |
 | Day 4         | Java + Regex      |
+| Day 5         | C++14             |
 
 ## 2018
 | Challenge No. | Language used |
