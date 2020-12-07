@@ -11,6 +11,7 @@ long inputs are usually expected to be read in from input.txt
 | Day 3         | Python 3.8        |
 | Day 4         | Java + Regex      |
 | Day 5         | C++14             |
+| Day 6         | Perl v5.30.0      |
 
 ## 2018
 | Challenge No. | Language used |
