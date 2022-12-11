@@ -3,6 +3,12 @@ Just some fun code to brush up on rusty languages at http://adventofcode.com
 
 long inputs are usually expected to be read in from input.txt
 
+## 2022
+| Challenge No. | Language used | Code                            |
+| ------------- | ------------- | ------------------------------- |
+| Day 1         | Rust          | [Link](./2022/day1/src/main.rs) |
+| Day 2         | Rust          | [Link](./2022/day2/src/main.rs) |
+
 ## 2021
 | Challenge No. | Language used |
 | ------------- | ------------- |
