@@ -3,10 +3,11 @@ Just some fun code to brush up on rusty languages at http://adventofcode.com
 
 long inputs are usually expected to be read in from input.txt
 
-## 2022
+## 2024
 | Challenge No. | Language used | Code                            |
 | ------------- | ------------- | ------------------------------- |
-| Day 1         | Python        | [Link](./2023/day1/day1.py      |
+| Day 1         | Python        | [Link](./2023/day1/day1.py)     |
+| Day 2         | Python        | [Link](./2023/day2/day2.py)     |
 
 
 ## 2022
