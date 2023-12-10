@@ -8,6 +8,8 @@ long inputs are usually expected to be read in from input.txt
 | ------------- | ------------- | ------------------------------- |
 | Day 1         | Python        | [Link](./2023/day1/day1.py)     |
 | Day 2         | Python        | [Link](./2023/day2/day2.py)     |
+| Day 3         | Python        | [Link](./2023/day2/day2.py)     |
+| Day 4         | Python 3.11 + Jupyter Notebook      | [Link](./2023/day2/day2.py)     |
 
 
 ## 2022
